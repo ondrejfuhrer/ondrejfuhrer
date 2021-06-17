@@ -2,7 +2,7 @@
 
 
 <!-- Actual text -->
-My name is Ondrej and I'm a Software Engineer currently wothing for GetYourGuide.
+My name is Ondrej and I'm a Software Engineer currently working for GetYourGuide.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
